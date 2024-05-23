@@ -1,6 +1,6 @@
    
         body{
-            background-image:url('star_blink.gif');
+            background-image:url('images/star_blink.gif');
             background-position: center;
             background-size: cover;
             color: white;
@@ -51,9 +51,31 @@
             background: black;
             display: inline-block;
             width: 100px;
-            margin: auto;
+            margin: auto;    
+        }
+        #tumblr {
+            max-width: 50px;
+            max-height: 50px;
+        }
+        #discord {
+            max-width: 50px;
+            max-height: 50px;
+        }
+        button {
+            background-color: transparent;
+            border: none;
+            cursor: pointer;
         }
         /* unused style*/
+        .column {
+            flex: 33.33%;
+            padding: 5px;
+        }
+        .row::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
         #copyright {
             float: left;
             padding-left: 10px;
