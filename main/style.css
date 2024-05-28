@@ -1,6 +1,6 @@
    
         body{
-            background-image:url('images/star_blink.gif');
+            background-image:url('../images/star_blink.gif');
             background-position: center;
             background-size: cover;
             color: white;

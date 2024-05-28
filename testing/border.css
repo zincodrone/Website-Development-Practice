@@ -1,0 +1,9 @@
+.window {
+    border: 1px solid;
+    width: 900px;
+    height: 650px;
+    background-color: transparent;
+    position: absolute; 
+    top: 250px;
+    right: 675px;
+}
