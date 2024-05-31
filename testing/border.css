@@ -5,5 +5,14 @@
     background-color: transparent;
     position: absolute; 
     top: 250px;
-    right: 675px;
+    right: 700px;
+}
+.bar {
+    border: 1px solid;
+    width: 250px;
+    height: 650px;
+    background-color: transparent;
+    position: absolute;
+    top: 250px;
+    right: 1600px;
 }
