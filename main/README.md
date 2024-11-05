@@ -1,7 +1,7 @@
 This is my first attempt to create my own website. Let's see how this goes.
 
 
-TO-DO
+To-Do List
 
 October 2024
 Add favicon ✅
